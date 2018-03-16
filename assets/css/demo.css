@@ -1,0 +1,59 @@
+.mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
+  color: #c2185b
+}
+
+.mat-accent .mat-option.mat-selected:not(.mat-option-disabled) {
+  color: #b0bec5
+}
+
+.mat-warn .mat-option.mat-selected:not(.mat-option-disabled) {
+  color: #f44336
+}
+
+.mat-option.mat-selected:not(.mat-option-multiple):not(.mat-option-disabled) {
+  background: rgba(255, 255, 255, .04)
+}
+
+.mat-paginator-page-size .mat-select-trigger {
+  color: rgba(255, 255, 255, .7)
+}
+
+.mat-select-arrow, .mat-select-disabled .mat-select-value {
+  color: rgba(255, 255, 255, .7)
+}
+
+.mat-select-content, .mat-select-panel-done-animating {
+  background: #424242
+}
+
+.mat-select-value {
+  color: #fff
+}
+
+.mat-select-panel .mat-option.mat-selected:not(.mat-option-multiple) {
+  background: rgba(255, 255, 255, .12)
+}
+
+.mat-form-field.mat-focused.mat-primary .mat-select-arrow {
+  color: #c2185b
+}
+
+.mat-form-field.mat-focused.mat-accent .mat-select-arrow {
+  color: #b0bec5
+}
+
+.mat-form-field.mat-focused.mat-warn .mat-select-arrow {
+  color: #f44336
+}
+
+.mat-form-field .mat-select.mat-select-invalid .mat-select-arrow {
+  color: #f44336
+}
+
+.mat-form-field .mat-select.mat-select-disabled .mat-select-arrow {
+  color: rgba(255, 255, 255, .7)
+}
+
+.mat-select.mat-select-disabled .mat-select-arrow {
+  color: #f44336
+}
